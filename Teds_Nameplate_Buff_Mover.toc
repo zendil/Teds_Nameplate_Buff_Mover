@@ -1,0 +1,7 @@
+## Interface: 70000
+## Title: Ted's Nameplate Buff Mover
+## Notes: Shifts nameplate buffs downwards when using large nameplates.
+## Version: 1.0
+## Author: Zendil-The Underbog
+
+Teds_Nameplate_Buff_Mover.lua

@@ -1,0 +1,1 @@
+Shifts nameplate buffs downwards when using large nameplates.
