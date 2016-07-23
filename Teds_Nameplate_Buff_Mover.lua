@@ -1,4 +1,4 @@
-NamePlateBaseMixin.ApplyOffsets = function()
+function NamePlateBaseMixin:ApplyOffsets()
 	if self.driverFrame:IsUsingLargerNamePlateStyle() then
 	--Original Blizzard
 		--self.UnitFrame.BuffFrame:SetBaseYOffset(20);
